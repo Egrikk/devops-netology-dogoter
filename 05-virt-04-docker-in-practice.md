@@ -14,6 +14,8 @@ https://github.com/Egrikk/shvirtd-example-python-Dogoter
 
 ![dive](img/05-virt-04-docker-in-practice/3.png)
 ![command](img/05-virt-04-docker-in-practice/4.png)
+### Дополнение к 6 заданию
+![command](img/05-virt-04-docker-in-practice/6.png)
 
 ## Задача 6.1
 
